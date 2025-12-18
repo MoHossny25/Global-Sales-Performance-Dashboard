@@ -1,5 +1,3 @@
-# Global-Sales-Performance-Dashboard
-An interactive Excel dashboard for analyzing global sales data (2023-2025). It tracks key performance indicators (KPIs) such as total orders, delivery rates, and regional performance across multiple countries (EGY, KSA, UAE).
 # Global Sales Performance Dashboard
 
 An interactive Excel dashboard for analyzing global sales data from 2023 to 2025. It tracks key performance indicators (KPIs) such as total orders, delivery rates, and regional performance across multiple countries like EGY, KSA, and UAE.
