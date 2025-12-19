@@ -10,6 +10,6 @@ An interactive Excel dashboard for analyzing global sales data from 2023 to 2025
 
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Advanced Pivot Tables, Slicers, and Data Visualization.
-
+## 📺 Dashboard Demo
 https://github.com/user-attachments/assets/3d76d8af-e6c2-4780-9367-6ef53f25bdd9
 
